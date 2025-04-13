@@ -1,0 +1,6 @@
+@Week8ClassTask_HostAddress = http://localhost:5208
+
+GET {{Week8ClassTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

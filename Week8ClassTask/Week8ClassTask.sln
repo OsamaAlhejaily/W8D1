@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week8ClassTask", "Week8ClassTask\Week8ClassTask.csproj", "{019B5A29-D207-4775-AA93-32F35768763F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week8ClassTaskTest", "Week8ClassTaskTest\Week8ClassTaskTest.csproj", "{ECFB8402-B5A5-4866-AB60-DCDDE22270BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{019B5A29-D207-4775-AA93-32F35768763F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{019B5A29-D207-4775-AA93-32F35768763F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{019B5A29-D207-4775-AA93-32F35768763F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{019B5A29-D207-4775-AA93-32F35768763F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECFB8402-B5A5-4866-AB60-DCDDE22270BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECFB8402-B5A5-4866-AB60-DCDDE22270BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECFB8402-B5A5-4866-AB60-DCDDE22270BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECFB8402-B5A5-4866-AB60-DCDDE22270BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94301287-49F8-4DCD-8542-92C3F6320B49}
+	EndGlobalSection
+EndGlobal

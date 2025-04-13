@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFB8402-B5A5-4866-AB60-DCDDE22270BD}|Week8ClassTaskTest\\Week8ClassTaskTest.csproj|c:\\users\\oussama\\source\\repos\\week8classtask\\week8classtasktest\\week8classtasktest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ECFB8402-B5A5-4866-AB60-DCDDE22270BD}|Week8ClassTaskTest\\Week8ClassTaskTest.csproj|solutionrelative:week8classtasktest\\week8classtasktest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFB8402-B5A5-4866-AB60-DCDDE22270BD}|Week8ClassTaskTest\\Week8ClassTaskTest.csproj|c:\\users\\oussama\\source\\repos\\week8classtask\\week8classtasktest\\testdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFB8402-B5A5-4866-AB60-DCDDE22270BD}|Week8ClassTaskTest\\Week8ClassTaskTest.csproj|solutionrelative:week8classtasktest\\testdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFB8402-B5A5-4866-AB60-DCDDE22270BD}|Week8ClassTaskTest\\Week8ClassTaskTest.csproj|c:\\users\\oussama\\source\\repos\\week8classtask\\week8classtasktest\\orderrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFB8402-B5A5-4866-AB60-DCDDE22270BD}|Week8ClassTaskTest\\Week8ClassTaskTest.csproj|solutionrelative:week8classtasktest\\orderrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFB8402-B5A5-4866-AB60-DCDDE22270BD}|Week8ClassTaskTest\\Week8ClassTaskTest.csproj|c:\\users\\oussama\\source\\repos\\week8classtask\\week8classtasktest\\repositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFB8402-B5A5-4866-AB60-DCDDE22270BD}|Week8ClassTaskTest\\Week8ClassTaskTest.csproj|solutionrelative:week8classtasktest\\repositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFB8402-B5A5-4866-AB60-DCDDE22270BD}|Week8ClassTaskTest\\Week8ClassTaskTest.csproj|c:\\users\\oussama\\source\\repos\\week8classtask\\week8classtasktest\\userrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFB8402-B5A5-4866-AB60-DCDDE22270BD}|Week8ClassTaskTest\\Week8ClassTaskTest.csproj|solutionrelative:week8classtasktest\\userrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019B5A29-D207-4775-AA93-32F35768763F}|Week8ClassTask\\Week8ClassTask.csproj|c:\\users\\oussama\\source\\repos\\week8classtask\\week8classtask\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019B5A29-D207-4775-AA93-32F35768763F}|Week8ClassTask\\Week8ClassTask.csproj|solutionrelative:week8classtask\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019B5A29-D207-4775-AA93-32F35768763F}|Week8ClassTask\\Week8ClassTask.csproj|c:\\users\\oussama\\source\\repos\\week8classtask\\week8classtask\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019B5A29-D207-4775-AA93-32F35768763F}|Week8ClassTask\\Week8ClassTask.csproj|solutionrelative:week8classtask\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019B5A29-D207-4775-AA93-32F35768763F}|Week8ClassTask\\Week8ClassTask.csproj|c:\\users\\oussama\\source\\repos\\week8classtask\\week8classtask\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019B5A29-D207-4775-AA93-32F35768763F}|Week8ClassTask\\Week8ClassTask.csproj|solutionrelative:week8classtask\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019B5A29-D207-4775-AA93-32F35768763F}|Week8ClassTask\\Week8ClassTask.csproj|c:\\users\\oussama\\source\\repos\\week8classtask\\week8classtask\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019B5A29-D207-4775-AA93-32F35768763F}|Week8ClassTask\\Week8ClassTask.csproj|solutionrelative:week8classtask\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019B5A29-D207-4775-AA93-32F35768763F}|Week8ClassTask\\Week8ClassTask.csproj|c:\\users\\oussama\\source\\repos\\week8classtask\\week8classtask\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019B5A29-D207-4775-AA93-32F35768763F}|Week8ClassTask\\Week8ClassTask.csproj|solutionrelative:week8classtask\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019B5A29-D207-4775-AA93-32F35768763F}|Week8ClassTask\\Week8ClassTask.csproj|c:\\users\\oussama\\source\\repos\\week8classtask\\week8classtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{019B5A29-D207-4775-AA93-32F35768763F}|Week8ClassTask\\Week8ClassTask.csproj|solutionrelative:week8classtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019B5A29-D207-4775-AA93-32F35768763F}|Week8ClassTask\\Week8ClassTask.csproj|c:\\users\\oussama\\source\\repos\\week8classtask\\week8classtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019B5A29-D207-4775-AA93-32F35768763F}|Week8ClassTask\\Week8ClassTask.csproj|solutionrelative:week8classtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019B5A29-D207-4775-AA93-32F35768763F}|Week8ClassTask\\Week8ClassTask.csproj|c:\\users\\oussama\\source\\repos\\week8classtask\\week8classtask\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019B5A29-D207-4775-AA93-32F35768763F}|Week8ClassTask\\Week8ClassTask.csproj|solutionrelative:week8classtask\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019B5A29-D207-4775-AA93-32F35768763F}|Week8ClassTask\\Week8ClassTask.csproj|c:\\users\\oussama\\source\\repos\\week8classtask\\week8classtask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019B5A29-D207-4775-AA93-32F35768763F}|Week8ClassTask\\Week8ClassTask.csproj|solutionrelative:week8classtask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019B5A29-D207-4775-AA93-32F35768763F}|Week8ClassTask\\Week8ClassTask.csproj|c:\\users\\oussama\\source\\repos\\week8classtask\\week8classtask\\week8classtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{019B5A29-D207-4775-AA93-32F35768763F}|Week8ClassTask\\Week8ClassTask.csproj|solutionrelative:week8classtask\\week8classtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Week8ClassTaskTest.csproj",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTaskTest\\Week8ClassTaskTest.csproj",
+              "RelativeDocumentMoniker": "Week8ClassTaskTest\\Week8ClassTaskTest.csproj",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTaskTest\\Week8ClassTaskTest.csproj",
+              "RelativeToolTip": "Week8ClassTaskTest\\Week8ClassTaskTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-13T10:44:26.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTaskTest\\UserRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Week8ClassTaskTest\\UserRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTaskTest\\UserRepositoryTests.cs*",
+              "RelativeToolTip": "Week8ClassTaskTest\\UserRepositoryTests.cs*",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEEAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:44:39.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTaskTest\\TestDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Week8ClassTaskTest\\TestDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTaskTest\\TestDbContextFactory.cs*",
+              "RelativeToolTip": "Week8ClassTaskTest\\TestDbContextFactory.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T11:26:24.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTaskTest\\RepositoryTests.cs",
+              "RelativeDocumentMoniker": "Week8ClassTaskTest\\RepositoryTests.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTaskTest\\RepositoryTests.cs",
+              "RelativeToolTip": "Week8ClassTaskTest\\RepositoryTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:44:24.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTaskTest\\OrderRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Week8ClassTaskTest\\OrderRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTaskTest\\OrderRepositoryTests.cs",
+              "RelativeToolTip": "Week8ClassTaskTest\\OrderRepositoryTests.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAASwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:44:00.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTask\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Week8ClassTask\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTask\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Week8ClassTask\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T11:11:00.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTask\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Week8ClassTask\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTask\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Week8ClassTask\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:41:13.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTask\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Week8ClassTask\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTask\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Week8ClassTask\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:40:39.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTask\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Week8ClassTask\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTask\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "Week8ClassTask\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:40:13.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTask\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Week8ClassTask\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTask\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Week8ClassTask\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:39:57.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTask\\appsettings.json",
+              "RelativeDocumentMoniker": "Week8ClassTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTask\\appsettings.json",
+              "RelativeToolTip": "Week8ClassTask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T10:38:52.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTask\\Program.cs",
+              "RelativeDocumentMoniker": "Week8ClassTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTask\\Program.cs",
+              "RelativeToolTip": "Week8ClassTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:36:09.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTask\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Week8ClassTask\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTask\\Models\\Order.cs",
+              "RelativeToolTip": "Week8ClassTask\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:34:24.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTask\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Week8ClassTask\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTask\\Models\\User.cs",
+              "RelativeToolTip": "Week8ClassTask\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:34:03.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Week8ClassTask.csproj",
+              "DocumentMoniker": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTask\\Week8ClassTask.csproj",
+              "RelativeDocumentMoniker": "Week8ClassTask\\Week8ClassTask.csproj",
+              "ToolTip": "C:\\Users\\Oussama\\source\\repos\\Week8ClassTask\\Week8ClassTask\\Week8ClassTask.csproj",
+              "RelativeToolTip": "Week8ClassTask\\Week8ClassTask.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-13T10:35:12.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
